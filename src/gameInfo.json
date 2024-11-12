@@ -1,0 +1,209 @@
+{
+  "exoskeletons" : [
+    "Beetle",
+    "Dire Wolf",
+    "Witch",
+    "Slug",
+    "Nymph",
+    "Grist"
+  ],
+  "dragons" : [
+    "Ancient Copper Dragon",
+    "Wyrm",
+    "Snake in a Halloween Costume",
+    "Goldspan Dragon",
+    "Shivan Dragon",
+    "Nicol-Bolas"
+  ],
+  "spirits" : [
+    "Yuurei",
+    "Spectre",
+    "Ghast",
+    "Demon",
+    "Really Pale Guy",
+    "Shacklegeist"
+  ],
+  "paladins" : [
+    "Thalia",
+    "Ajani",
+    "Gideon",
+    "Sorin",
+    "Wyll",
+    "Spara"
+  ],
+  "warriors" : [
+    "Karlach",
+    "Alesha",
+    "Garruk",
+    "Nahiri",
+    "Laezel",
+    "Norin"
+  ],
+  "sorcerers" : [
+    "Jace",
+    "Niv-Mizzet",
+    "Ral",
+    "Chandra",
+    "Tamiyo",
+    "Jaya"
+  ],
+  "headArmor" : [
+    "Circlet",
+    "Helm",
+    "Bascinet",
+    "Chain Hood"
+  ],
+  "chestArmor" : [
+    "Steel Cuirass",
+    "Chainmail",
+    "Leather Vest",
+    "Gambeson"
+  ],
+  "legArmor" : [
+    "Chaps",
+    "Shin Guards",
+    "Boots",
+    "Chausses"
+  ],
+  "fireSpells" : [
+    "Fireball",
+    "Banefire",
+    "Lava Spike",
+    "Carbonize"
+  ],
+  "iceSpells" : [
+    "Blizzard",
+    "Ice Beam",
+    "Frost Spray",
+    "Coldsnap"
+  ],
+  "lightningSpells" : [
+    "Lightning Bolt",
+    "Galvanic Discharge",
+    "Thunder",
+    "Electroball"
+  ],
+  "two-handedWeapons" : [
+    "Greatsword",
+    "Longbow",
+    "Poleaxe",
+    "Bowstaff",
+    "Heavy Crossbow"
+  ],
+  "one-handedWeapons" : [
+    "Dagger",
+    "Shortsword",
+    "Mace",
+    "Flail",
+    "Wristbow"
+  ],
+
+  "strModifiers" : [
+    {
+      "desc" :  "Brave",
+      "mod" : 1
+    },
+    {
+      "desc" :  "Courageous",
+      "mod" : 2
+    },
+    {
+      "desc" :  "Wilting",
+      "mod" : -1
+    },
+    {
+      "desc" :  "Cowardly",
+      "mod" : -2
+    }
+  ],
+  "agiModifiers" : [
+    {
+      "desc" :  "Swift",
+      "mod" : 1
+    },
+    {
+      "desc" :  "Quick",
+      "mod" : 2
+    },
+    {
+      "desc" :  "Slow",
+      "mod" : -1
+    },
+    {
+      "desc" :  "Sedentary",
+      "mod" : -2
+    }
+  ],
+  "dexModifiers" : [
+    {
+      "desc" :  "Nimble",
+      "mod" : 1
+    },
+    {
+      "desc" :  "Deft",
+      "mod" : 2
+    },
+    {
+      "desc" :  "Clumsy",
+      "mod" : -1
+    },
+    {
+      "desc" :  "Awkward",
+      "mod" : -2
+    }
+  ],
+  "dmgModifiers" : [
+    {
+      "desc" :  "Powerful",
+      "mod" : 1
+    },
+    {
+      "desc" :  "Mighty",
+      "mod" : 2
+    },
+    {
+      "desc" :  "Fragile",
+      "mod" : -1
+    },
+    {
+      "desc" :  "Feeble",
+      "mod" : -2
+    }
+  ],
+  "defModifiers" : [
+    {
+      "desc" :  "Sturdy",
+      "mod" : 1
+    },
+    {
+      "desc" :  "Robust",
+      "mod" : 2
+    },
+    {
+      "desc" :  "Flimsy",
+      "mod" : -1
+    },
+    {
+      "desc" :  "Delicate",
+      "mod" : -2
+    }
+  ],
+  "potionModifiers" : [
+    {
+      "desc" : "Greater",
+      "mod" : 1
+    },
+    {
+      "desc" : "Ample",
+      "mod" : 2
+    },
+    {
+      "desc" : "Lesser",
+      "mod" : -1
+    },
+    {
+      "desc" : "Meager",
+      "mod" : -2
+    }
+  ]
+}
